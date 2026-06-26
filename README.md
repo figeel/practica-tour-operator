@@ -1,4 +1,4 @@
-\# Сервис туроператоров - Документация бизнес-функций
+\# Сервис для туроператоров - Документация
 
 
 
@@ -6,9 +6,9 @@
 
 
 
-Описание одной ключевой функции на основе конкурентного анализа (Bókun, Rezdy, Amadeus и др.).
+Полное описание функции в реальной структуре проекта.
 
 
 
-Подробности: docs/business-functions/hotel-booking.md
+Подробности → \[docs/business-functions/hotel-booking/README.md](docs/business-functions/hotel-booking/README.md)
 
