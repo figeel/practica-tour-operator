@@ -10,5 +10,5 @@
 
 
 
-Подробности → \[docs/business-functions/hotel-booking/README.md](docs/business-functions/hotel-booking/README.md)
+\*\*Подробности\*\* → \[docs/business-functions/hotel-booking/README.md](docs/business-functions/hotel-booking/README.md)
 
