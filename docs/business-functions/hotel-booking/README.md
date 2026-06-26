@@ -1,24 +1,24 @@
-\# Бронирование отелей
+# Бронирование отелей
 
 
 
-\*\*На основе конкурентного анализа:\*\* Bókun, Rezdy, Amadeus, Sabre.
+**На основе конкурентного анализа:** Bókun, Rezdy, Amadeus, Sabre.
 
 
 
-\## Ссылки на разделы
+## Ссылки на разделы
 
-\- \[Глоссарий](glossary.md)
+- [Глоссарий](glossary.md)
 
-\- \[Бизнес-цели](business-goals.md)
+- [Бизнес-цели](business-goals.md)
 
-\- \[Бизнес-процесс](process.md)
+- [Бизнес-процесс](process.md)
 
-\- \[User Stories](user-stories.md)
+- [User Stories](user-stories.md)
 
-\- \[Ограничения](constraints.md)
+- [Ограничения](constraints.md)
 
-\- \[DoR](dor.md)
+- [DoR](dor.md)
 
-\- \[DoD](dod.md)
+- [DoD](dod.md)
 

@@ -1,8 +1,8 @@
-\# Сервис для туроператоров - Документация
+# Сервис для туроператоров - Документация
 
 
 
-\## Бизнес-функция: Бронирование отелей
+## Бизнес-функция: Бронирование отелей
 
 
 
@@ -10,5 +10,5 @@
 
 
 
-\*\*Подробности\*\* → \[docs/business-functions/hotel-booking/README.md](docs/business-functions/hotel-booking/README.md)
+**Подробности** → \[docs/business-functions/hotel-booking/README.md](docs/business-functions/hotel-booking/README.md)
 
